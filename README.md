@@ -1,4 +1,4 @@
-# 🔥 FireNex
+<img width="1316" height="2832" alt="image" src="https://github.com/user-attachments/assets/67cf0e50-a941-4819-b5ea-18a0d9a268dd" /># 🔥 FireNex
 ## Autonomous Fire Monitoring & Firefighting Robot Platform
 
 <p align="center">
@@ -161,6 +161,10 @@ For local display and system debugging:
 
 ## 🤖 Robot State Machine
 
+<p align="center">
+  <img src="docs/diagrams/state-machine.svg" width="700" alt="Robot state machine">
+</p>
+
 Recommended control state flow:
 
 1. **IDLE**  
@@ -190,6 +194,12 @@ Recommended control state flow:
 ---
 
 ## 📊 Realtime Data Flow
+
+<p align="center">
+  <img src="docs/diagrams/dataflow.svg" width="750" alt="Realtime data flow">
+</p>
+
+From raw sensor measurements to browser-side telemetry and alert decisions:
 
 ```text
 Flame / Smoke / Temperature / Distance / IMU
