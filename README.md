@@ -1,13 +1,9 @@
 # 🔥 FireNex
 ## Autonomous Fire Monitoring & Firefighting Robot Platform
 
-<p align="center">
-  <img src="docs/images/cover.png" width="900">
-</p>
+![cover](docs/images/cover.png)
 
-<p align="center">
-  Embedded Robotics · Multi-Sensor Perception · Autonomous Navigation · Web Telemetry
-</p>
+Embedded Robotics · Multi-Sensor Perception · Autonomous Navigation · Web Telemetry
 
 <p align="center">
 
@@ -78,9 +74,7 @@ Perception → Decision → Patrol → Fire Confirmation → Target Approach →
 
 ## 🌐 Web Monitoring Dashboard
 
-<p align="center">
-  <img src="docs/images/dashboard-overview.png" width="900">
-</p>
+![dashboard](docs/images/dashboard-overview.png)
 
 The current dashboard page already demonstrates the monitoring side of the project, including:
 
@@ -99,9 +93,7 @@ This page can be used as the current project demo interface before the physical 
 
 ## 🧠 System Architecture
 
-<p align="center">
-  <img src="docs/diagrams/system-architecture.png" width="850">
-</p>
+![architecture](docs/diagrams/system-architecture.png)
 
 The system is organized into the following layers:
 
@@ -161,6 +153,8 @@ For local display and system debugging:
 
 ## 🤖 Robot State Machine
 
+![state-machine](docs/diagrams/state-machine.svg)
+
 Recommended control state flow:
 
 1. **IDLE**  
@@ -190,6 +184,8 @@ Recommended control state flow:
 ---
 
 ## 📊 Realtime Data Flow
+
+![dataflow](docs/diagrams/dataflow.svg)
 
 ```text
 Flame / Smoke / Temperature / Distance / IMU
@@ -301,6 +297,7 @@ Suggested responsibility split:
 ## 📂 Repository Structure
 
 ```text
+
 FireNex
 │
 ├── firmware
@@ -313,7 +310,9 @@ FireNex
 │   │   ├── cover.png
 │   │   └── dashboard-overview.png
 │   ├── diagrams
-│   │   └── system-architecture.png
+│   │   ├── system-architecture.png
+│   │   ├── state-machine.svg
+│   │   └── dataflow.svg
 │   └── pin-mapping.md
 │
 ├── web_dashboard
