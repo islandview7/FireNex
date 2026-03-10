@@ -9,16 +9,6 @@
   Embedded Robotics · Multi-Sensor Perception · Autonomous Navigation · Web Telemetry
 </p>
 
-<p align="center">
-
-![project](https://img.shields.io/badge/project-robotics-blue)
-![platform](https://img.shields.io/badge/platform-STM32%20%2B%20ESP32-green)
-![architecture](https://img.shields.io/badge/architecture-modular-orange)
-![status](https://img.shields.io/badge/status-active-success)
-![license](https://img.shields.io/badge/license-MIT-lightgrey)
-
-</p>
-
 ---
 
 ## 📖 Overview
