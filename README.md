@@ -114,7 +114,7 @@ The project is suitable for:
 ## 🔄 Robot State Machine
 
 <p align="center">
-  <img src="docs/diagrams/state-machine.svg" alt="Robot state machine" width="100%" />
+  <img src="docs/diagrams/state-machine.svg" width="600" >
 </p>
 
 ### Recommended state flow
