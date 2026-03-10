@@ -1,4 +1,4 @@
-<img width="1316" height="2832" alt="image" src="https://github.com/user-attachments/assets/67cf0e50-a941-4819-b5ea-18a0d9a268dd" /># 🔥 FireNex
+🔥 FireNex
 ## Autonomous Fire Monitoring & Firefighting Robot Platform
 
 <p align="center">
